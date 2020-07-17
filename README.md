@@ -13,7 +13,7 @@ Repositori publik hasil pekerjaan mahasiswa pada mata kuliah (12S3203) Proyek Si
 - [Slide](slides/PSI-20-03.pdf)
 - [Poster](posters/PS-PSI-20-03.jpg)
 
-## Pembangunan Sistem Informasi Homestay di Kab. Tobasa Berbasis Web
+## Sistem Informasi Homestay di Kab. Tobasa Berbasis Web
 - [Slide](slides/PSI-20-04.pdf)
 - [Poster](posters/PS-PSI-20-04.jpg)
 
@@ -29,7 +29,7 @@ Repositori publik hasil pekerjaan mahasiswa pada mata kuliah (12S3203) Proyek Si
 - [Slide](slides/PSI-20-07.pdf)
 - [Poster](posters/PS-PSI-20-07.jpg)
 
-## Pembangunan Sistem Informasi Online Payment Berbasis Web (PoPay)
+## Sistem Informasi Online Payment Berbasis Web (PoPay)
 - [Slide](slides/PSI-20-08.pdf)
 - [Poster](posters/PS-PSI-20-08.jpg)
 
